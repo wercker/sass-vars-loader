@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/epegzz/sass-vars-loader"
+    "url": "https://github.com/wercker/sass-vars-loader"
   },
   "scripts": {
     "test": "jest",
